@@ -30,6 +30,6 @@ You can find me on:
 - ⚡ Fun fact: ... -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmion&theme=radical" /> -->
-[![Cmions's github stats](https://github-readme-stats.vercel.app/api?username=cmion)](https://github.com/cmion/github-readme-stats)
-![Cmions's github collaborations](https://github-readme-stats.vercel.app/api?username=cmion&count_private=true)
+<!-- [![Cmions's github stats](https://github-readme-stats.vercel.app/api?username=cmion)](https://github.com/cmion/github-readme-stats) -->
+<!-- ![Cmions's github collaborations](https://github-readme-stats.vercel.app/api?username=cmion&count_private=true) -->
 
