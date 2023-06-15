@@ -3,7 +3,7 @@
 
 I'm a software developer from Lagos, Nigeria 🇳🇬
 
-I've been building apps both on mobile and on the web, using technologies like React, NextJS, TypeScript/JavaScript, NodeJS, expressJS, NestJS, MongoDB, Redis, RabbitMQ, AWS, GCP, Dart & Flutter. I also dabble with Rust, and Python to build APIs thingy.
+I've been building apps both on mobile and on the web, using technologies like `React`, `NextJS`, `TypeScript/JavaScript`, `NodeJS`, `expressJS`, `NestJS`, `MongoDB`, `Redis`, `RabbitMQ`, `AWS`, `GCP`, `Dart & Flutter`. I also dabble with Rust, and Python to build APIs thingy.
 
 I love listening to people, users, customers whatever you want to call them, I build from their perspective. Brainstorming, trying out new things, and building new amazing products gives me shivers 🥶, **I LOVE IT ❤️**
 
