@@ -13,7 +13,7 @@ You can find me on:
 
 - [Twitter as @_cmion](https://twitter.com/_cmion)
 - [GitHub as @cmion](https://github.com/cmion) 😉
-- [Instagram as @_cmion]() 
+- [Instagram as @_cmion](https://www.instagram.com/_cmion/) 
 - [LinkedIn](https://linkedin.com/in/simeon-akpanudo)
 
 <!-- **Cmion/cmion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
