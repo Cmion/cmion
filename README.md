@@ -11,7 +11,7 @@ I love listening to people, users, customers whatever you want to call them, I b
 
 You can find me on:
 
-- [Twitter as @_cmion](https://twitter.com/_cmion)
+- [Twitter as @_cmion](https://twitter.com/cmiondotdev)
 - [GitHub as @cmion](https://github.com/cmion) 😉
 - [Instagram as @_cmion](https://www.instagram.com/_cmion/) 
 - [LinkedIn](https://linkedin.com/in/simeon-akpanudo)
