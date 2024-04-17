@@ -1,11 +1,13 @@
-### Hey I'm [@cmion](https://github.com/cmion) (Simeon Akpanudo) 👋
 
 
-I'm a software developer from Lagos, Nigeria 🇳🇬
+## Hey I'm [@cmion](https://github.com/cmion) (Simeon Akpanudo) 👋
+
+
+I'm a software developer.
 
 I've been building apps both on mobile and on the web, using technologies like `React`, `NextJS`, `TypeScript/JavaScript`, `NodeJS`, `expressJS`, `NestJS`, `MongoDB`, `Redis`, `RabbitMQ`, `AWS`, `GCP`, `Dart & Flutter`. I also dabble with Rust, and Python to build APIs thingy.
 
-I love listening to people, users, customers whatever you want to call them, I build from their perspective. Brainstorming, trying out new things, and building new amazing products gives me shivers 🥶, **I LOVE IT ❤️**
+I love God, my wife and music. **I LOVE IT ❤️** Oh and food 🥗, uhmm healthy food.
 
 
 
@@ -26,7 +28,6 @@ You can find me on:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmion&theme=radical" /> -->
