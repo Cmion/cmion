@@ -7,7 +7,7 @@ I'm a software developer.
 
 I've been building apps both on mobile and on the web, using technologies like `React`, `NextJS`, `TypeScript/JavaScript`, `NodeJS`, `expressJS`, `NestJS`, `MongoDB`, `Redis`, `RabbitMQ`, `AWS`, `GCP`, `Dart & Flutter`. I also dabble with Rust, and Python to build APIs thingy.
 
-I love God, my wife and music. **I LOVE IT ❤️** Oh and food 🥗, uhmm healthy food.
+I love God, my wife and Typescript & Music. Oh and food 🥗, uhmm healthy food.
 
 
 
