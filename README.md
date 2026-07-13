@@ -3,7 +3,7 @@
 # Hey I'm [@cmion](https://x.com/cmiondotdev) (Simeon Akpanudo) 👋
 
 
-I'm a tier-1 markdown wizard.
+I'm a tier-1 markdown savant.
 
 
 I love Food, some more food, and other kinds of food. And oh throw my wife in there too (The love, not the food).
