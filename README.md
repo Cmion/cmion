@@ -1,6 +1,6 @@
 
 
-# Hey I'm [@cmion](https://github.com/cmion) (Simeon Akpanudo) 👋
+# Hey I'm [@cmion](https://x.com/cmiondotdev) (Simeon Akpanudo) 👋
 
 
 I'm a tier-1 markdown wizard.
@@ -12,7 +12,7 @@ I love Food, some more food, and other kinds of food. And oh throw my wife in th
 
 You can find me on:
 
-- [Twitter as @cmiondotdev](https://twitter.com/cmiondotdev)
+- [Twitter as @cmiondotdev](https://x.com/cmiondotdev)
 - [GitHub as @cmion](https://github.com/cmion) 😉
 - [LinkedIn](https://linkedin.com/in/simeon-akpanudo)
 
