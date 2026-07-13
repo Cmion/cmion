@@ -1,13 +1,12 @@
 
 
-## Hey I'm [@cmion](https://github.com/cmion) (Simeon Akpanudo) 👋
+# Hey I'm [@cmion](https://github.com/cmion) (Simeon Akpanudo) 👋
 
 
-I'm a software developer.
+I'm a tier-1 markdown wizard.
 
-I've been building apps both on mobile and on the web, using technologies like `React`, `NextJS`, `TypeScript/JavaScript`, `NodeJS`, `expressJS`, `NestJS`, `MongoDB`, `Redis`, `RabbitMQ`, `AWS`, `GCP`, `Dart & Flutter`. I also dabble with Rust, and Python to build APIs thingy.
 
-I love God, my Wife, Typescript & Music. Oh and food 🥗, uhmm healthy food.
+I love Food, some more food, and other kinds of food. And oh throw my wife in there too (The love, not the food).
 
 
 
@@ -15,7 +14,6 @@ You can find me on:
 
 - [Twitter as @cmiondotdev](https://twitter.com/cmiondotdev)
 - [GitHub as @cmion](https://github.com/cmion) 😉
-- [Instagram as @_cmion](https://www.instagram.com/_cmion/) 
 - [LinkedIn](https://linkedin.com/in/simeon-akpanudo)
 
 <!-- **Cmion/cmion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
