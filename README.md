@@ -1,6 +1,6 @@
 
 
-# Hey I'm [@cmion](https://x.com/cmiondotdev) (Simeon Akpanudo) 👋
+# Hey I'm [@cmion](https://x.com/cmiondotdev) (Simeon Akpanudo) 🤖
 
 
 I'm a tier-1 markdown savant.
